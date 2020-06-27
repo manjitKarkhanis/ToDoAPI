@@ -1,0 +1,15 @@
+com\toDoApp\ToDo\api\TodoResource.class
+com\toDoApp\ToDo\ToDoApplication.class
+com\toDoApp\ToDo\api\Representation.class
+com\toDoApp\ToDo\health\ToDoAppHealthCheck.class
+com\toDoApp\ToDo\auth\ToDoAppAuthorizer.class
+com\toDoApp\ToDo\db\TodoDao.class
+com\toDoApp\ToDo\db\TaskDao.class
+com\toDoApp\ToDo\db\TodoMapper.class
+com\toDoApp\ToDo\resources\Task.class
+com\toDoApp\ToDo\auth\ToDoAppAuthenticator.class
+com\toDoApp\ToDo\auth\User.class
+com\toDoApp\ToDo\ToDoConfiguration.class
+com\toDoApp\ToDo\resources\Todo.class
+com\toDoApp\ToDo\api\TodoService.class
+com\toDoApp\ToDo\db\TaskMapper.class
