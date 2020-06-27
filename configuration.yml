@@ -3,7 +3,7 @@ database:
   driverClass: com.mysql.cj.jdbc.Driver
   url: jdbc:mysql://localhost:3306/ds01
   user: root
-  password: hexa4KXF*
+  password: test1231
   maxWaitForConnection: 1s
   validationQuery: "SELECT 1"
   validationQueryTimeout: 3s
