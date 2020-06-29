@@ -48,7 +48,7 @@ public class ToDoApplication extends Application<ToDoConfiguration> {
 	    // Register resources
 	    environment.jersey().register(new TodoResource(dbi.onDemand(TodoService.class)));
 	    
-	    //Don't include non null objects in the response
+	    //Don't include null objects in the response
 	    environment.getObjectMapper().setSerializationInclusion(Include.NON_NULL);
 	  }
 
